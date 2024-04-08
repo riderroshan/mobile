@@ -1,0 +1,10 @@
+1.samsug
+2.vivo
+3.realme
+4.oneplus
+5.xiaomi
+6.nokia
+7.lenovo
+8.motorola
+9.infinix
+10.apple
